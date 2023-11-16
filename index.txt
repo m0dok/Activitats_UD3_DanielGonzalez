@@ -1,2 +1,4 @@
-Titol exercici 1
+Titol exercici 2
 imatge
+commit en branca desenvolupament
+hola
